@@ -1,0 +1,27 @@
+ProductID,ProductName,Category,Subcategory,UnitPrice,UnitCost
+1001,Laptop Pro 15,Electronics,Laptops,1299.0,900.0
+1002,Laptop Air 13,Electronics,Laptops,999.0,700.0
+1003,Business Laptop 14,Electronics,Laptops,1150.0,820.0
+1004,Smartphone X,Electronics,Phones,799.0,500.0
+1005,Smartphone Lite,Electronics,Phones,499.0,280.0
+1006,Smartphone Max,Electronics,Phones,999.0,650.0
+1007,Wireless Mouse,Electronics,Accessories,29.0,10.0
+1008,Mechanical Keyboard,Electronics,Accessories,119.0,60.0
+1009,USB-C Hub 7in1,Electronics,Accessories,89.0,40.0
+1010,Noise Canceling Headphones,Electronics,Accessories,199.0,110.0
+1011,Office Chair Ergonomic,Furniture,Chairs,199.0,110.0
+1012,Gaming Chair Pro,Furniture,Chairs,259.0,150.0
+1013,Standing Desk 120cm,Furniture,Desks,399.0,250.0
+1014,Corner Desk 160cm,Furniture,Desks,449.0,280.0
+1015,Bookshelf Classic,Furniture,Storage,149.0,80.0
+1016,Drawer Unit 3x,Furniture,Storage,129.0,70.0
+1017,Hoodie Classic,Apparel,Hoodies,59.0,25.0
+1018,Hoodie Zip,Apparel,Hoodies,69.0,30.0
+1019,T-Shirt Basic,Apparel,T-Shirts,19.0,5.0
+1020,T-Shirt Premium,Apparel,T-Shirts,29.0,10.0
+1021,Cap Logo,Apparel,Accessories,24.0,7.0
+1022,Socks 3-pack,Apparel,Accessories,14.0,4.0
+1023,Non-stick Frying Pan,Home,Kitchen,39.0,18.0
+1024,Chef Knife,Home,Kitchen,49.0,20.0
+1025,LED Table Lamp,Home,Decor,59.0,25.0
+1026,Wall Art Canvas,Home,Decor,79.0,35.0
